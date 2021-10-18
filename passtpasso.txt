@@ -1,0 +1,8 @@
+1 - git init - Inicializar o git, criando um repositório local
+2 - colocar os arquivos de vcs na pasta
+3 - git status - Verificar os arquivos
+4 - Utilizem git add . - Adicionar os arquivos no pacote
+5 - Usem o git status mais uma vez - Para verificar se os arquivos estão tranquilos
+6 - Utilizar o git commit - Para fechar o pacote
+6.1 - Utilizar o git config --global - Para configurar o nome de usuário e Email
+7 - Utilizar o git commit com tudo configurado
